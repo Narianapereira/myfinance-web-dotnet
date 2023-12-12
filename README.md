@@ -15,7 +15,7 @@ Seguindo as instruções descritas abaixo lhe permitirão obter uma cópia do pr
 
 ### Pré-requisitos
 
-Para operação do projeto em sua máquina é necessário ter instalado no computador o  Visual Studio Code ou alguma IDE análoga que lhe permita efetuar os comandos. Também é necessário ter em seu computador algum gerenciador de banco de dados SQL, como por exemplo, o SQL Management Studio (SSMS) ou dbeaver.
+Para operação do projeto em sua máquina é necessário ter instalado no computador o  Visual Studio Code ou alguma IDE análoga que suporte .NET C#. Também é necessário ter em seu computador algum gerenciador de banco de dados SQL, como por exemplo, o SQL Management Studio (SSMS) ou dbeaver.
 
 ### Instalação
 
@@ -23,7 +23,7 @@ As etapas para operação do projeto são descritas abaixo:
 
 ```
 1 - Abrir o projeto myfinance-web-dotnet em sua IDE
-2 - Abrir o terminal da IDE
+2 - Abrir o terminal
 3 - Executar o comando dotnet build para compilação do projeto
 4 - Executar o comando dotnet run ou dotnet watch run para execução do projeto
 5 - Acessar a pasta Scripts para criação do banco de dados e executá-los em seu gerenciador de banco de dados. O primeiro script a ser executado é o myfinanceweb_DB.sql
