@@ -9,7 +9,7 @@ namespace myfinance_web_netcore.Infrastructure
 
         public DbSet<AccountPlan> AccountPlan {get; set;}
 
-        public DbSet<AccountTransaction> AccountTransaction {get; set;}
+        public DbSet<Transaction> Transaction {get; set;}
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/nariana/Git/myfinance-web-dotnet/myfinance-web-netcore/myfinance-web-netcore.csproj": {}
+    "C:\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "/home/nariana/Git/myfinance-web-dotnet/myfinance-web-netcore/myfinance-web-netcore.csproj": {
+    "C:\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nariana/Git/myfinance-web-dotnet/myfinance-web-netcore/myfinance-web-netcore.csproj",
+        "projectUniqueName": "C:\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "/home/nariana/Git/myfinance-web-dotnet/myfinance-web-netcore/myfinance-web-netcore.csproj",
-        "packagesPath": "/home/nariana/.nuget/packages/",
-        "outputPath": "/home/nariana/Git/myfinance-web-dotnet/myfinance-web-netcore/obj/",
+        "projectPath": "C:\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "packagesPath": "C:\\Users\\mthdk\\.nuget\\packages\\",
+        "outputPath": "C:\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nariana/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mthdk\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.13, )"
@@ -66,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.114\\RuntimeIdentifierGraph.json"
         }
       }
     }
