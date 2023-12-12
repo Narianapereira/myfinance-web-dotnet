@@ -31,7 +31,7 @@ As etapas para operação do projeto são descritas abaixo:
 
 ## Diagrama arquitetural
 
-![image](https://github.com/Narianapereira/myfinance-web-dotnet/architecture.jpeg)
+![image](https://github.com/Narianapereira/myfinance-web-dotnet/blob/main/architecture.jpeg)
 
 
 ## Tecnologias utilizadas
